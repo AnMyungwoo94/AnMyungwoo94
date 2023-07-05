@@ -31,5 +31,5 @@ https://kofathena.tistory.com/
 <br/>
 <h2 class="code-line" data-line-start=16 data-line-end=17 ><a id="Blog__Social_16"></a>Blog &amp; Social</h2>
 <p class="has-line-data" data-line-start="17" data-line-end="18"><img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&amp;logo=notion&amp;logoColor=white" alt="Notion">  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&amp;logo=slack&amp;logoColor=white" alt="Slack"></p>
-<p class="has-line-data" data-line-start="19" data-line-end="20"><a href="https://solved.ac/hye023/"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hye023" alt="Solved.ac Profile"></a></p>
+<p class="has-line-data" data-line-start="19" data-line-end="20"><a href="https://solved.ac/hye023/"></a></p>
 <br/> <br/>
