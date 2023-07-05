@@ -10,7 +10,6 @@
 　　／ /// 　/ ﾂﾂｰ <br/>
 　／　☆　/ <br/>
  ／　　 　/<br/>  
-https://kofathena.tistory.com/
 <br/>
 <br/>
 <h1 class="code-line" data-line-start=0 data-line-end=1 ><a id="Ahn_Hyeyoung_0"></a>Ahn Myungwoo</h1>
