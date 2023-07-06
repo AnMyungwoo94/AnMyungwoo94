@@ -1,4 +1,4 @@
-　　     Λ____Λ <br/>
+&nbsp;&nbsp;Λ____Λ <br/>
 　　　　(ㅎㅁㅎ) <br/>
 　&nbsp;&nbsp;　&nbsp;&nbsp;(つ<a href="mailto:anmy121212@gmail.com">
            <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
