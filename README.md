@@ -8,14 +8,14 @@
 [![Email](http://img.shields.io/badge/woo941102@naver.com-4885ed?style=flat-square&logo=gmail&link=mailto:woo941102@naver.com)](mailto:woo941102@naver.com)
 ### 💁‍♂️ My project
 <div>
-  ▶ Java<br>
+  ▶Java<br>
 - 자바 스케줄 관리 프로그램 : <a href="https://github.com/AnMyungwoo94/Schedule_Management_Program"><img src="https://img.shields.io/badge/Link-F07355?style=flat-square&logo=verizon&logoColor=white"/></a><br><br>
-  ▶ Android App<br>
+  ▶Android App<br>
 - Mp3 Music player 어플       : <a href="https://github.com/AnMyungwoo94/Mp3PlayerOnDB"><img src="https://img.shields.io/badge/Link-006600?style=flat-square&logo=verizon&logoColor=white"/></a><br>
 - 소개팅 어플 Hipeople     : <a href="https://github.com/AnMyungwoo94/Hipeople_App"><img src="https://img.shields.io/badge/Link-FF9E0F?style=flat-square&logo=verizon&logoColor=white"/></a><br>
 - 뷰티 커뮤니티 어플 BeautyIdea    : <a href="https://github.com/AnMyungwoo94/BeautyIdea_APP"><img src="https://img.shields.io/badge/Link-F0D198?style=flat-square&logo=verizon&logoColor=white"/></a><br>
 - Github 조회앱 : <a href="https://github.com/AnMyungwoo94/githubApp"><img src="https://img.shields.io/badge/Link-FF5E0F?style=flat-square&logo=verizon&logoColor=white"/></a><br><br>
-  ▶ Web<br>
+  ▶Web<br>
 - 미술관 venus 웹사이트    : <a href="https://github.com/AnMyungwoo94/venus_museum"><img src="https://img.shields.io/badge/Link-C70D2C?style=flat-square&logo=verizon&logoColor=white"/></a><br>
 - 가구 쇼핑몰 Treefare     : <a href="https://github.com/AnMyungwoo94/treefare_shoppingmall"><img src="https://img.shields.io/badge/Link-FF61F6?style=flat-square&logo=verizon&logoColor=white"/>
 
