@@ -8,7 +8,6 @@
 [![Email](http://img.shields.io/badge/woo941102@naver.com-4885ed?style=flat-square&logo=gmail&link=mailto:woo941102@naver.com)](mailto:woo941102@naver.com)
 ### 💁‍♂️ My project
 <div>
- 
   Android App<br>
 - Hipeople(Google play 배포완료)     : <a href="https://github.com/AnMyungwoo94/Hipeople_App"><img src="https://img.shields.io/badge/Link-FF9E0F?style=flat-square&logo=verizon&logoColor=white"/></a><br>
 - Mp3 Music player(Google play 배포완료)      : <a href="https://github.com/AnMyungwoo94/Mp3PlayerOnDB"><img src="https://img.shields.io/badge/Link-006600?style=flat-square&logo=verizon&logoColor=white"/></a><br>
