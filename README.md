@@ -16,8 +16,8 @@
 - Github 조회앱 : <a href="https://github.com/AnMyungwoo94/githubApp"><img src="https://img.shields.io/badge/Link-FF5E0F?style=flat-square&logo=verizon&logoColor=white"/></a><br><br>
   Web<br>
 - 미술관 venus 웹사이트    : <a href="https://github.com/AnMyungwoo94/venus_museum"><img src="https://img.shields.io/badge/Link-C70D2C?style=flat-square&logo=verizon&logoColor=white"/></a><br>
-- 가구 쇼핑몰 Treefare     : <a href="https://github.com/AnMyungwoo94/treefare_shoppingmall"><img src="https://img.shields.io/badge/Link-FF61F6?style=flat-square&logo=verizon&logoColor=white"/><br><br>
- Java<br>
+- 가구 쇼핑몰 Treefare     : <a href="https://github.com/AnMyungwoo94/treefare_shoppingmall"><img src="https://img.shields.io/badge/Link-FF61F6?style=flat-square&logo=verizon&logoColor=white"/></a><br><br>
+  Java<br>
 - 자바 스케줄 관리 프로그램 : <a href="https://github.com/AnMyungwoo94/Schedule_Management_Program"><img src="https://img.shields.io/badge/Link-F07355?style=flat-square&logo=verizon&logoColor=white"/></a><br><br>
 
 </a><br>
