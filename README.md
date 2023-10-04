@@ -10,8 +10,9 @@
 <div>
   Android App<br>
 - Hipeople(Google play 배포완료)     : <a href="https://github.com/AnMyungwoo94/Hipeople_App"><img src="https://img.shields.io/badge/Link-FF9E0F?style=flat-square&logo=verizon&logoColor=white"/></a><br>
-- Mp3 Music player(Google play 배포완료)      : <a href="https://github.com/AnMyungwoo94/Mp3PlayerOnDB"><img src="https://img.shields.io/badge/Link-006600?style=flat-square&logo=verizon&logoColor=white"/></a><br>
 - 뷰아 (Google play 배포완료)    : <a href="https://github.com/AnMyungwoo94/BeautyIdea_Shopping_App"><img src="https://img.shields.io/badge/Link-F0D198?style=flat-square&logo=verizon&logoColor=white"/></a><br>
+- GetTiming    : <a href="https://github.com/AnMyungwoo94/GetTiming_App"><img src="https://img.shields.io/badge/Link-639E8D?style=flat-square&logo=verizon&logoColor=white"/></a><br>
+- Mp3 Music player(Google play 배포완료)      : <a href="https://github.com/AnMyungwoo94/Mp3PlayerOnDB"><img src="https://img.shields.io/badge/Link-006600?style=flat-square&logo=verizon&logoColor=white"/></a><br>
 - Github 조회앱 : <a href="https://github.com/AnMyungwoo94/githubApp"><img src="https://img.shields.io/badge/Link-FF5E0F?style=flat-square&logo=verizon&logoColor=white"/></a><br><br>
   Web<br>
 - 미술관 venus 웹사이트    : <a href="https://github.com/AnMyungwoo94/venus_museum"><img src="https://img.shields.io/badge/Link-C70D2C?style=flat-square&logo=verizon&logoColor=white"/></a><br>
