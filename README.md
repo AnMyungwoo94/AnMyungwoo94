@@ -1,11 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Good%20to%20see%20you%20🤗&desc=I'm%20Myungwoo%20:%20%29&fontSize=60&fontAlignY=40&descSize=25&descAlignY=58&animation=fadeIn)
 
 ## Hi there ❗ 
-<img src="https://github.com/AnMyungwoo94/AnMyungwoo94/assets/126849689/5ee1e2e4-94b6-4401-8d67-779d1acd2fe3" align="right" height="300
-"/>
-
-<samp> 안녕하세요 안명우입니다. </samp>
-[![Email](http://img.shields.io/badge/woo941102@naver.com-4885ed?style=flat-square&logo=gmail&link=mailto:woo941102@naver.com)](mailto:woo941102@naver.com)
+<samp> 안녕하세요 안명우입니다. </samp> </br></br>
+[![Email](http://img.shields.io/badge/woo941102@naver.com-4885ed?style=flat-square&logo=gmail&link=mailto:woo941102@naver.com)](mailto:woo941102@naver.com) [![Tech Blog Badge](https://img.shields.io/badge/Blog-CC0000?style=flat-square&logo=Tesla&logoColor=white&link=https://geonlee.tistory.com/)](https://jejublog94.tistory.com//)
 
 ### 💁‍♂️ My project
 |  📱APP Project |                      Link                      | Google Play  |  
