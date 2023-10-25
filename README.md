@@ -8,22 +8,22 @@
 [![Email](http://img.shields.io/badge/woo941102@naver.com-4885ed?style=flat-square&logo=gmail&link=mailto:woo941102@naver.com)](mailto:woo941102@naver.com)
 
 ### 💁‍♂️ My project
-|  APP Project |                      Link                      |
-|:--------:|:-------------------------------------------------:|
-| Hipeople(구글등록) | <a href="https://github.com/AnMyungwoo94/Hipeople_App"><img src="https://img.shields.io/badge/Link-FF9E0F?style=flat-square&logo=verizon&logoColor=white"/></a>                                |
-| 뷰아(구글등록)  |<a href="https://github.com/AnMyungwoo94/BeautyIdea_Shopping_App"><img src="https://img.shields.io/badge/Link-F0D198?style=flat-square&logo=verizon&logoColor=white"/></a>                                |
-| GetTiming   |<a href="https://github.com/AnMyungwoo94/GetTiming_App"><img src="https://img.shields.io/badge/Link-639E8D?style=flat-square&logo=verizon&logoColor=white"/></a>                       |
-| Music player(구글등록)  | <a href="https://github.com/AnMyungwoo94/Mp3PlayerOnDB"><img src="https://img.shields.io/badge/Link-006600?style=flat-square&logo=verizon&logoColor=white"/></a>                                      |
-| Github 조회앱   |<a href="https://github.com/AnMyungwoo94/githubApp"><img src="https://img.shields.io/badge/Link-FF5E0F?style=flat-square&logo=verizon&logoColor=white"/></a> |
+|  📱APP Project |                      Link                      | Google Play  |  
+|:--------:|:-------------------------------------------------:|:-------------------------------------------------:|
+| Hipeople [소개팅 앱] | <a href="https://github.com/AnMyungwoo94/Hipeople_App"><img src="https://img.shields.io/badge/Link-D9D9D9?style=flat-square&logo=verizon&logoColor=white"/></a> | <a href="https://play.google.com/store/apps/details?id=com.myungwoo.datingappkotlinproject"><img src="https://github.com/AnMyungwoo94/AnMyungwoo94/assets/126849689/28c4edcb-4105-44ac-a1ba-914a6d1af847" width="25"/></a>  |
+| 뷰아 [쇼핑몰 및 커뮤니티 앱]  |<a href="https://github.com/AnMyungwoo94/BeautyIdea_Shopping_App"><img src="https://img.shields.io/badge/Link-D9D9D9?style=flat-square&logo=verizon&logoColor=white"/></a> | <a href="https://play.google.com/store/apps/details?id=com.myungwoo.shoppingmall_app"><img src="https://github.com/AnMyungwoo94/AnMyungwoo94/assets/126849689/28c4edcb-4105-44ac-a1ba-914a6d1af847" width="25"/></a>|
+| Music player [음악재생 앱]  | <a href="https://github.com/AnMyungwoo94/Mp3PlayerOnDB"><img src="https://img.shields.io/badge/Link-D9D9D9?style=flat-square&logo=verizon&logoColor=white"/></a> | <a href="https://play.google.com/store/apps/details?id=com.myungwoo.mp3playerondb"><img src="https://github.com/AnMyungwoo94/AnMyungwoo94/assets/126849689/28c4edcb-4105-44ac-a1ba-914a6d1af847" width="25"/></a>|
+| GetTiming [가격 변동 앱]   |<a href="https://github.com/AnMyungwoo94/GetTiming_App"><img src="https://img.shields.io/badge/Link-D9D9D9?style=flat-square&logo=verizon&logoColor=white"/></a>                       ||
+| Github 조회 앱   |<a href="https://github.com/AnMyungwoo94/githubApp"><img src="https://img.shields.io/badge/Link-D9D9D9?style=flat-square&logo=verizon&logoColor=white"/></a> ||
 
-|  Web Project |                      Link                      |
-|:--------:|:-------------------------------------------------:|
-|가구 쇼핑몰 Treefare         | <a href="https://github.com/AnMyungwoo94/treefare_shoppingmall"><img src="https://img.shields.io/badge/Link-D9D9D9?style=flat-square&logo=verizon&logoColor=white"/></a>|
-|미술관 venus 웹사이트         | <a href="https://github.com/AnMyungwoo94/venus_museum"><img src="https://img.shields.io/badge/Link-717070?style=flat-square&logo=verizon&logoColor=white"/></a> |
+|  🖥️Web Project |                      Link                      | Hosting Page |  
+|:--------:|:-------------------------------------------------:|:-------------------------------------------------:|
+|가구 쇼핑몰 Treefare         | <a href="https://github.com/AnMyungwoo94/treefare_shoppingmall"><img src="https://img.shields.io/badge/Link-D9D9D9?style=flat-square&logo=verizon&logoColor=white"/></a> | <a href="http://myungwoo.dothome.co.kr/php_treefare/index.php"><img src="https://github.com/AnMyungwoo94/AnMyungwoo94/assets/126849689/fa3d7397-ec2c-4007-a30b-3c98e278313f" width="25" /></a> | 
+|미술관 venus 웹사이트         | <a href="https://github.com/AnMyungwoo94/venus_museum"><img src="https://img.shields.io/badge/Link-D9D9D9?style=flat-square&logo=verizon&logoColor=white"/></a> |  |
 
 |  Java Project |                      Link                      |
 |:--------:|:-------------------------------------------------:|
-|스케줄 관리 프로그램       | <a href="https://github.com/AnMyungwoo94/Schedule_Management_Program"><img src="https://img.shields.io/badge/Link-F5C651?style=flat-square&logo=verizon&logoColor=white"/></a>|
+|스케줄 관리 프로그램       | <a href="https://github.com/AnMyungwoo94/Schedule_Management_Program"><img src="https://img.shields.io/badge/Link-D9D9D9?style=flat-square&logo=verizon&logoColor=white"/></a>|
 
 
 ### ⚡ My Tech Stacks
@@ -31,18 +31,13 @@
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
-  <img src="https://img.shields.io/badge/php-1071D3?style=for-the-badge&logo=php&logoColor=white">
+  <img src="https://img.shields.io/badge/php-1071D3?style=for-the-badge&logo=php&logoColor=white"></br>
   <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
   <img src="https://img.shields.io/badge/kotlin-339AF0?style=for-the-badge&logo=kotlin&logoColor=white">
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
   <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white"></br>
   <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
   <img src="https://img.shields.io/badge/fontawesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white">
-
-![eclipse](https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=for-the-badge&logo=Eclipse%20IDE&logoColor=white)
-![visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)</br>
-![android Studio](https://img.shields.io/badge/androidStudio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
-![windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=Windows&logoColor=white)
 </div>
 
 
