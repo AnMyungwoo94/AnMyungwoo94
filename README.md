@@ -2,7 +2,7 @@
 
 ## Hi there ❗ 
 <samp> 안녕하세요 안명우입니다. </samp> </br></br>
-[![Email](http://img.shields.io/badge/woo941102@naver.com-4885ed?style=flat-square&logo=gmail&link=mailto:woo941102@naver.com)](mailto:woo941102@naver.com) [![Tech Blog Badge](https://img.shields.io/badge/Blog-CC0000?style=flat-square&logo=Tesla&logoColor=white&link=https://geonlee.tistory.com/)](https://jejublog94.tistory.com//) [![Portfolio Badge](https://img.shields.io/badge/Portfolio-ffffff?style=flat-square&logo=Notion&logoColor=black&link=https://www.notion.so/Geon-Lee-0a2ead807ec24791b5f75a5d0974fca8)](https://www.notion.so/An-Myungwoo-0e8aaeefc09043a1adfe98b1693774e7)
+[![Email](http://img.shields.io/badge/woo941102@naver.com-4885ed?style=flat-square&logo=gmail&link=mailto:woo941102@naver.com)](mailto:woo941102@naver.com) [![Tech Blog Badge](https://img.shields.io/badge/Blog-CC0000?style=flat-square&logo=Tesla&logoColor=white&link=https://geonlee.tistory.com/)](https://jejublog94.tistory.com//)
 
 ### 💁‍♂️ My project
 |  📱APP Project |                      Link                      | Google Play  |  
