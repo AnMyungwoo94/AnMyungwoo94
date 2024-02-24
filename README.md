@@ -9,6 +9,7 @@
 ### 💁‍♂️ My project
 |  📱APP Project |                      Link                      | Google Play  |  
 |:--------:|:-------------------------------------------------:|:-------------------------------------------------:|
+| 개발소 [스터디 앱] | <a href="https://github.com/android-team-02/developer-study-platform"><img src="https://img.shields.io/badge/Link-D9D9D9?style=flat-square&logo=verizon&logoColor=white"/></a> | |
 | Hipeople [소개팅 앱] | <a href="https://github.com/AnMyungwoo94/Hipeople_App"><img src="https://img.shields.io/badge/Link-D9D9D9?style=flat-square&logo=verizon&logoColor=white"/></a> | <a href="https://play.google.com/store/apps/details?id=com.myungwoo.hipeople"><img src="https://cdn-icons-png.flaticon.com/128/6124/6124997.png" width="25"/></a>  |
 | 뷰아 [쇼핑몰 및 커뮤니티 앱]  |<a href="https://github.com/AnMyungwoo94/BeautyIdea_Shopping_App"><img src="https://img.shields.io/badge/Link-D9D9D9?style=flat-square&logo=verizon&logoColor=white"/></a> | <a href="https://play.google.com/store/apps/details?id=com.myungwoo.shoppingmall_app"><img src="https://cdn-icons-png.flaticon.com/128/6124/6124997.png" width="25"/></a>|
 | Music player [음악재생 앱]  | <a href="https://github.com/AnMyungwoo94/Mp3PlayerOnDB"><img src="https://img.shields.io/badge/Link-D9D9D9?style=flat-square&logo=verizon&logoColor=white"/></a> | <a href="https://play.google.com/store/apps/details?id=com.myungwoo.mp3playerondb"><img src="https://cdn-icons-png.flaticon.com/128/6124/6124997.png" width="25"/></a>|
